@@ -1,0 +1,25 @@
+{
+  "name": "qa-week-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "test": "vitest --run",
+    "test:watch": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alej011/qa-week-5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Alej011/qa-week-5/issues"
+  },
+  "homepage": "https://github.com/Alej011/qa-week-5#readme",
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
